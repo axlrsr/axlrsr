@@ -1,7 +1,7 @@
 # Hi, I'm Axel 👋
-I'm currently studying web development and I aspire to become a creative front end developer.
+I'm a (creative) front-end developer currently studying at [Gobelins](https://www.gobelins.fr).
 
 ## About me
-- 🔭 I’m currently working on **a lot of stuff**
-- 🌱 I’m currently learning **everything**
-- ⚡ Fun fact: I love photography and design
+- 👨‍💻 I’m working on [a Unity video game](https://github.com/JuDmnca/sergii) as part of my master's degree
+- 🌱 I’m currently learning **Unity** and **Blender**
+- ❤️ I love **photography** and **Marvel movies**
